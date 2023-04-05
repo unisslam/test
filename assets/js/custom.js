@@ -190,6 +190,7 @@
 		mobileNav();
 	});
 
+
 	// Window Resize Mobile Menu Fix
 	function mobileNav() {
 		var width = $(window).width();
